@@ -232,7 +232,7 @@ Los _scoped slots_ nos permiten pasar un _template_ al _slot_ en vez de un eleme
 
 ### 5. Crear un componente factory para Marcadores y Líneas Poligonales
 
-Ahora que nuestro mapa está pronto, crearemos dos componentes _factory_ que usaremos para añadir elementos a `TravelMal`.
+Ahora que nuestro mapa está listo, crearemos dos componentes _factory_ que usaremos para añadir elementos a `TravelMal`.
 
 `GoogleMapMarker.vue`
 
